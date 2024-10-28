@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0e01f2c9536556109dac70c0a0490ea6" label="Dishes" max_length="40" name="x_1183263_servic_0_dishes" type="collection">
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element default="0" label="Ratings" max_length="40" name="ratings" type="integer"/>
+        <element choice="1" label="Status" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="0" value="Available"/>
+                <element inactive_on_update="false" label="Not Available" sequence="1" value="Not Available"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element label="Price" mandatory="true" max_length="20" name="price" type="price"/>
+        <element label="Short description" max_length="100" name="short_description" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

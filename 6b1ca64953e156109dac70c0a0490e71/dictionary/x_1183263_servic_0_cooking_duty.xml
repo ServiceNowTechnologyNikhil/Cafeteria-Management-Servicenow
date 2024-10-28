@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fe829b01532196109dac70c0a0490ebe" label="Cooking Duty" max_length="40" name="x_1183263_servic_0_cooking_duty" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Allocated for" mandatory="true" max_length="32" name="allocated_for" reference="x_1183263_servic_0_dishes" type="reference"/>
+        <element label="Work Start Time" max_length="40" name="work_start_time" type="glide_date_time"/>
+        <element label="Work End Time" max_length="40" name="work_end_time" type="glide_date_time"/>
+        <element label="Cook" mandatory="true" max_length="32" name="cook" reference="x_1183263_servic_0_cooks" type="reference"/>
+        <index name="index">
+            <element name="allocated_for"/>
+        </index>
+        <index name="index2">
+            <element name="cook"/>
+        </index>
+    </element>
+</database>

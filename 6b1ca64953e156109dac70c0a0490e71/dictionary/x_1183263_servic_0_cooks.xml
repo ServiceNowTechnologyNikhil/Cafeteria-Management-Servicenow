@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="95e67e8153e556109dac70c0a0490eba" label="Cooks" max_length="40" name="x_1183263_servic_0_cooks" type="collection">
+        <element label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element label="Photo" max_length="40" name="photo" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element label="Is chef" max_length="40" name="is_chef" type="boolean"/>
+        <element label="Phone " mandatory="true" max_length="40" name="phone" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 08:03:05</sys_created_on>
+        <sys_id>80b11b8953ed56109dac70c0a0490e5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1183263_servic_0_cooking_duty.x_1183263_servic_0.user</sys_name>
+        <sys_package display_value="ServiceNow Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
+        <sys_security_acl display_value="x_1183263_servic_0_cooking_duty">80b11b8953ed56109dac70c0a0490e59</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_80b11b8953ed56109dac70c0a0490e5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 08:03:05</sys_updated_on>
+        <sys_user_role display_value="x_1183263_servic_0.user" name="x_1183263_servic_0.user">bf1ce64953e156109dac70c0a0490e0d</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</application>
+        <file_path/>
+        <instance_id>c2753d6f1be54e9839a54089bd4bcb8e</instance_id>
+        <instance_name>dev260974</instance_name>
+        <name>sys_security_acl_role_80b11b8953ed56109dac70c0a0490e5e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-28 08:03:05</sys_created_on><sys_id>80b11b8953ed56109dac70c0a0490e5e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1183263_servic_0_cooking_duty.x_1183263_servic_0.user</sys_name><sys_package display_value="ServiceNow Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package><sys_policy/><sys_scope display_value="ServiceNow Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope><sys_security_acl display_value="x_1183263_servic_0_cooking_duty">80b11b8953ed56109dac70c0a0490e59</sys_security_acl><sys_update_name>sys_security_acl_role_80b11b8953ed56109dac70c0a0490e5e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-28 08:03:05</sys_updated_on><sys_user_role display_value="x_1183263_servic_0.user" name="x_1183263_servic_0.user">bf1ce64953e156109dac70c0a0490e0d</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-429918907</payload_hash>
+        <record_name>x_1183263_servic_0_cooking_duty.x_1183263_servic_0.user</record_name>
+        <reverted_from/>
+        <source>231ca64953e156109dac70c0a0490e77</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 08:03:05</sys_created_on>
+        <sys_id>4cb11b8953ed56109dac70c0a0490e9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192d22669e50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 08:03:05</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>40b11b8968ed56101e3233fde048519f</update_guid>
+        <update_guid_history>40b11b8968ed56101e3233fde048519f:-429918907</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1183263_servic_0_cooking_duty.x_1183263_servic_0.user">c25217cd53ed56109dac70c0a0490e73</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 08:05:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>48b1698400d04ee096eff46c8b026640</sys_id>
+        <sys_metadata>80b11b8953ed56109dac70c0a0490e5e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1183263_servic_0_cooking_duty.x_1183263_servic_0.user</sys_name>
+        <sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
+        <sys_parent display_value="">80b11b8953ed56109dac70c0a0490e59</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
+        <sys_scope_delete display_value="">91531141ed7047a286471d8a9d308001</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_80b11b8953ed56109dac70c0a0490e5e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_80b11b8953ed56109dac70c0a0490e5e">4cb11b8953ed56109dac70c0a0490e9f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 08:05:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

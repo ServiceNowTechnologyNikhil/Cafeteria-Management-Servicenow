@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1d781385536196109dac70c0a0490e06" label="Order" max_length="40" name="x_1183263_servic_0_order" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" sequence="4" value="Cancelled"/>
+                <element inactive_on_update="false" label="Ready" sequence="1" value="Ready"/>
+                <element inactive_on_update="false" label="Delivered" sequence="5" value="Delivered"/>
+                <element inactive_on_update="false" label="Shipped" sequence="2" value="Shipped"/>
+                <element inactive_on_update="false" label="Preparing" sequence="0" value="Preparing"/>
+                <element inactive_on_update="false" label="Out For Delivery" sequence="3" value="Out For Delivery"/>
+            </choice>
+        </element>
+        <element label="Order By Phone" mandatory="true" max_length="40" name="order_by_phone" type="string"/>
+        <element label="Ordered Dish" max_length="32" name="ordered_dish" reference="x_1183263_servic_0_dishes" type="reference"/>
+        <element label="Order By Name" mandatory="true" max_length="40" name="order_by_name" type="string"/>
+        <element label="Order By Email" mandatory="true" max_length="40" name="order_by_email" type="string"/>
+        <element label="Cancellation Reason" max_length="1000" name="cancellation_reason" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <index name="index">
+            <element name="ordered_dish"/>
+        </index>
+    </element>
+</database>

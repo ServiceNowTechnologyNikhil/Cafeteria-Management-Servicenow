@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Cooking Duty</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Cooking Duty</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">4c4cbf2af832021008dd9cfea425ac61</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 08:02:54</sys_created_on>
+        <sys_id>91a1938953ed56109dac70c0a0490e1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cooking Duty</sys_name>
+        <sys_package display_value="ServiceNow Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
+        <sys_update_name>sys_wizard_answer_91a1938953ed56109dac70c0a0490e1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 08:02:54</sys_updated_on>
+        <table/>
+        <target_url>x_1183263_servic_0_cooking_duty.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</application>
+        <file_path/>
+        <instance_id>c2753d6f1be54e9839a54089bd4bcb8e</instance_id>
+        <instance_name>dev260974</instance_name>
+        <name>sys_wizard_answer_91a1938953ed56109dac70c0a0490e1e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Cooking Duty</answer><button_label/><dependent_value/><element/><name>Cooking Duty</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">4c4cbf2af832021008dd9cfea425ac61</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-28 08:02:54</sys_created_on><sys_id>91a1938953ed56109dac70c0a0490e1e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cooking Duty</sys_name><sys_package display_value="ServiceNow Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package><sys_policy/><sys_scope display_value="ServiceNow Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope><sys_update_name>sys_wizard_answer_91a1938953ed56109dac70c0a0490e1e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-28 08:02:54</sys_updated_on><table/><target_url>x_1183263_servic_0_cooking_duty.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1454699592</payload_hash>
+        <record_name>Cooking Duty</record_name>
+        <reverted_from/>
+        <source>40179711530112109dac70c0a0490e6c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-10-04 06:33:39</sys_created_on>
+        <sys_id>1752d7cd53ed56109dac70c0a0490e75</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>192563be5b80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>d352d7cd57ed5610020677da0da41375</update_guid>
+        <update_guid_history>d352d7cd57ed5610020677da0da41375:1454699592</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 08:06:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>3b96f9797ac94e6aa687242b9b6ed259</sys_id>
+        <sys_metadata>91a1938953ed56109dac70c0a0490e1e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cooking Duty</sys_name>
+        <sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
+        <sys_parent display_value="Task">4c4cbf2af832021008dd9cfea425ac61</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
+        <sys_scope_delete display_value="">91531141ed7047a286471d8a9d308001</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_91a1938953ed56109dac70c0a0490e1e</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_91a1938953ed56109dac70c0a0490e1e">1752d7cd53ed56109dac70c0a0490e75</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 08:06:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
