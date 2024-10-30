@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1183263_servic_0.Cafteria Managers </api_name>
+        <description/>
+        <name>Cafteria Managers </name>
+        <role_names/>
+        <roles/>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 05:08:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3bcb43153e112109dac70c0a0490e12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cafteria Managers </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
+        <sys_update_name>sys_ux_applicability_b3bcb43153e112109dac70c0a0490e12</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 05:08:26</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</application>
+        <file_path/>
+        <instance_id>c2753d6f1be54e9839a54089bd4bcb8e</instance_id>
+        <instance_name>dev260974</instance_name>
+        <name>sys_ux_applicability_b3bcb43153e112109dac70c0a0490e12</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1183263_servic_0.Cafteria Managers </api_name><description/><name>Cafteria Managers </name><role_names/><roles/><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-30 05:08:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b3bcb43153e112109dac70c0a0490e12</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cafteria Managers </sys_name><sys_overrides/><sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package><sys_policy/><sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope><sys_update_name>sys_ux_applicability_b3bcb43153e112109dac70c0a0490e12</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-30 05:08:26</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>-541994820</payload_hash>
+        <record_name>Cafteria Managers </record_name>
+        <reverted_from/>
+        <source>c7822b09532596109dac70c0a0490e2c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 05:08:26</sys_created_on>
+        <sys_id>11ec787153e112109dac70c0a0490e0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192dbd33b640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 05:08:26</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>d1ec787100e11210e6f75a8ed8459c0c</update_guid>
+        <update_guid_history>d1ec787100e11210e6f75a8ed8459c0c:-541994820</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 05:16:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>4e812f3c45b143889bcfcb2b88408b90</sys_id>
+        <sys_metadata>b3bcb43153e112109dac70c0a0490e12</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cafteria Managers </sys_name>
+        <sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
+        <sys_scope_delete display_value="">91531141ed7047a286471d8a9d308001</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_b3bcb43153e112109dac70c0a0490e12</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_b3bcb43153e112109dac70c0a0490e12">11ec787153e112109dac70c0a0490e0d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 05:16:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

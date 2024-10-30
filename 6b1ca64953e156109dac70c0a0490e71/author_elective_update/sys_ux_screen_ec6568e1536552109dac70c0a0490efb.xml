@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Cafteria Management Workspace">9990ffc5532996109dac70c0a0490ee3</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Default">90652861536552109dac70c0a0490e59</macroponent>
+        <macroponent_config/>
+        <name>Default</name>
+        <order>10</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Home">dc652861536552109dac70c0a0490e50</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-29 08:47:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ec6568e1536552109dac70c0a0490efb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
+        <sys_update_name>sys_ux_screen_ec6568e1536552109dac70c0a0490efb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 05:49:13</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=ec6568e1536552109dac70c0a0490efb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</application>
+        <file_path/>
+        <instance_id>c2753d6f1be54e9839a54089bd4bcb8e</instance_id>
+        <instance_name>dev260974</instance_name>
+        <name>sys_ux_screen_ec6568e1536552109dac70c0a0490efb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Cafteria Management Workspace">9990ffc5532996109dac70c0a0490ee3</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Default">90652861536552109dac70c0a0490e59</macroponent><macroponent_config/><name>Default</name><order>10</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Home">dc652861536552109dac70c0a0490e50</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-29 08:47:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ec6568e1536552109dac70c0a0490efb</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Default</sys_name><sys_overrides/><sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package><sys_policy/><sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope><sys_update_name>sys_ux_screen_ec6568e1536552109dac70c0a0490efb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-30 05:49:13</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=ec6568e1536552109dac70c0a0490efb"/></record_update>]]></payload>
+        <payload_hash>287810002</payload_hash>
+        <record_name>Default</record_name>
+        <reverted_from/>
+        <source>c7822b09532596109dac70c0a0490e2c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 05:49:13</sys_created_on>
+        <sys_id>2e36c13153a512109dac70c0a0490efd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192dbf890ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 05:49:13</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>6236c1312ba51210ee2b4f70a084cffd</update_guid>
+        <update_guid_history>6236c1312ba51210ee2b4f70a084cffd:287810002,6c6568e1a2655210f20e8402a79e0bfe:-1744682669</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 05:51:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>8cd0d1ce8eb542749c2fb96b9c39ec90</sys_id>
+        <sys_metadata>ec6568e1536552109dac70c0a0490efb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default</sys_name>
+        <sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
+        <sys_scope_delete display_value="">91531141ed7047a286471d8a9d308001</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_ec6568e1536552109dac70c0a0490efb</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_ec6568e1536552109dac70c0a0490efb">2e36c13153a512109dac70c0a0490efd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 05:51:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

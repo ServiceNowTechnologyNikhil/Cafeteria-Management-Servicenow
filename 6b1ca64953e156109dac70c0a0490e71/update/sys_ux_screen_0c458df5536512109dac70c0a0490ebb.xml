@@ -5,9 +5,9 @@
         <description/>
         <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings/>
-        <macroponent display_value="Default">90652861536552109dac70c0a0490e59</macroponent>
+        <macroponent display_value="Managers View">08458df5536512109dac70c0a0490eb6</macroponent>
         <macroponent_config/>
-        <name>Default</name>
+        <name>Managers View</name>
         <order>0</order>
         <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
         <required_translations>[ ]</required_translations>
@@ -16,19 +16,19 @@
         <screen_type display_value="Home">dc652861536552109dac70c0a0490e50</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-29 08:47:14</sys_created_on>
+        <sys_created_on>2024-10-30 05:44:57</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>ec6568e1536552109dac70c0a0490efb</sys_id>
+        <sys_id>0c458df5536512109dac70c0a0490ebb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Default</sys_name>
+        <sys_name>Managers View</sys_name>
         <sys_overrides/>
         <sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
-        <sys_update_name>sys_ux_screen_ec6568e1536552109dac70c0a0490efb</sys_update_name>
+        <sys_update_name>sys_ux_screen_0c458df5536512109dac70c0a0490ebb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-29 08:47:14</sys_updated_on>
+        <sys_updated_on>2024-10-30 05:44:57</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=ec6568e1536552109dac70c0a0490efb"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=0c458df5536512109dac70c0a0490ebb"/>
 </record_update>

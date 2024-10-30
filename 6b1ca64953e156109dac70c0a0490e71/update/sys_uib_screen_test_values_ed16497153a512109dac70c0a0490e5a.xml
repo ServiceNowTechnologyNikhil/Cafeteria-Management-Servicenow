@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
     <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
         <macroponent_config/>
-        <screen display_value="Default">ec6568e1536552109dac70c0a0490efb</screen>
+        <screen display_value="Admin View">6d16c5fd536512109dac70c0a0490eb8</screen>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-29 08:47:14</sys_created_on>
-        <sys_id>6065a8e1536552109dac70c0a0490e00</sys_id>
+        <sys_created_on>2024-10-30 05:48:35</sys_created_on>
+        <sys_id>ed16497153a512109dac70c0a0490e5a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Cafeteria Management" source="x_1183263_servic_0">6b1ca64953e156109dac70c0a0490e71</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cafeteria Management">6b1ca64953e156109dac70c0a0490e71</sys_scope>
-        <sys_update_name>sys_uib_screen_test_values_6065a8e1536552109dac70c0a0490e00</sys_update_name>
+        <sys_update_name>sys_uib_screen_test_values_ed16497153a512109dac70c0a0490e5a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-29 08:47:14</sys_updated_on>
+        <sys_updated_on>2024-10-30 05:48:35</sys_updated_on>
     </sys_uib_screen_test_values>
 </record_update>
